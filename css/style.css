@@ -19,7 +19,8 @@ body{
     padding-left: 9px;
     color: #000000;
     background-color: #fff;
-    width: calc(100%-16px);
+    /* width: calc(100%-16px); */
+    max-width: 768px;
 }
 nav{
     height: 50px;
