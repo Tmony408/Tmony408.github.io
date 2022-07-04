@@ -41,14 +41,14 @@ $(document).ready(function(){
       }
    })
 });
-$(document).mouseup(function(event){
-   if($('#cartss').prop('checked')){
+// $(document).mouseup(function(event){
+//    if($('#cartss').prop('checked')){
     
-      if(!$('#carts-overlay').is(event.target) && $('#carts-overlay').has(event.target).length === 0){
-         $('#cartss').prop('checked', false)
-      }
-   }  
-})
+//       if(!$('#carts-overlay').is(event.target) && $('#carts-overlay').has(event.target).length === 0){
+//          $('#cartss').prop('checked', false)
+//       }
+//    }  
+// })
 
 let increase = document.getElementsByClassName('quantity-btn quantity-add')
 let decrease = document.getElementsByClassName('quantity-sub');
