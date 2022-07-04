@@ -1,0 +1,33 @@
+----------------------------------------------------------------------------------------------
+                                           FONT AWESOME
+-------------------------------------------------------------------------------------------------
+<i class="fa-solid fa-heart"></i> -favourites
+<FontAwesomeIcon icon="fa-thin fa-heart" />
+
+
+<i class="fa-solid fa-bars"></i>
+menu bar
+
+
+<i class="fa-solid fa-moon"></i>
+moon
+
+
+
+<i class="fa-solid fa-sun-bright"></i>
+sun
+
+<i class="fa-light fa-arrow-left"></i>
+<i class="fa-light fa-arrow-left"></i>
+arrows
+
+
+
+<i class="fa-solid fa-magnifying-glass"></i>
+search
+
+
+<i class="fa-solid fa-basket-shopping-simple"></i>
+cart
+
+
